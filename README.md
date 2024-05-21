@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akkushwah](https://github.com/akkushwah)
 
-- 💬 Ask me about **HTML, CSS, JavaSript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **akankshakushwah.be@gmail.com**
 
